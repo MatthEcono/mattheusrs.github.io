@@ -58,22 +58,27 @@ a:hover {
   color: #165cb3;
 }
 
-/* 3. Navbar (masthead) */
+/* NAVBAR CLARA MODERNA */
 .masthead {
-  background-color: #0b172a;
-  border-bottom: none;
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb !important;
 }
 
 .masthead__inner-wrap {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
 }
 
 .masthead__menu-item a {
+  color: #1f2937 !important;
   font-weight: 600;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
+  text-transform: none;
 }
+
+.masthead__menu-item a:hover {
+  color: #1a73e8 !important;
+}
+
 
 /* 4. Sidebar */
 .sidebar {
