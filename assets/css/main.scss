@@ -38,3 +38,76 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ============================================
+   CUSTOMIZAÇÕES PESSOAIS
+   =========================================== */
+
+/* 1. Tipografia global */
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+}
+
+/* 2. Cores / links */
+a {
+  color: #1a73e8;
+}
+
+a:hover {
+  color: #165cb3;
+}
+
+/* 3. Navbar (masthead) */
+.masthead {
+  background-color: #0b172a;
+  border-bottom: none;
+}
+
+.masthead__inner-wrap {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.masthead__menu-item a {
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* 4. Sidebar */
+.sidebar {
+  background-color: #f8fafc;
+  border-left: 1px solid #e2e8f0;
+}
+
+.author__avatar img {
+  border-radius: 999px;
+  border: 2px solid #1a73e8;
+}
+
+.author__content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* 5. Homepage / cards de posts */
+.archive__item-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.archive__item-excerpt {
+  color: #4a5568;
+}
+
+.page__title {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.page__lead {
+  font-size: 1.1rem;
+  color: #4a5568;
+  max-width: 40rem;
+}
