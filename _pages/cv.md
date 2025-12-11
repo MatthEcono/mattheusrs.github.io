@@ -4,11 +4,12 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-📄 **Lattes:**  
-[https://lattes.cnpq.br/4766159462000923](https://lattes.cnpq.br/4766159462000923)
+# Curriculum Vitae
 
-📧 **Email:** mattheusr36@gmail.com  
-🎓 **ORCID:** https://orcid.org/0000-0001-8382-8791
+## 📄 Download CV (PDF)
+You can download my full CV here:
+
+👉 **[Download CV – PDF](https://matthecono.github.io/assets/files/CV_Mattheus_Rodrigues.pdf)**
 
 ---
 
@@ -79,13 +80,11 @@ Course: *Introduction to Econometrics*
 
 ---
 
-## 🔗 External CV Files
+## 🔗 External Links
 
-- **Full Lattes CV (CNPq):**  
-https://lattes.cnpq.br/4766159462000923
-
-- **HTML version imported from Lattes (local file):**  
-Included in repository as *Currículo Lattes.html*.
+- **Lattes CV:** https://lattes.cnpq.br/4766159462000923  
+- **Email:** mattheusr36@gmail.com  
+- **ORCID:** https://orcid.org/0000-0001-8382-8791  
 
 ---
 
