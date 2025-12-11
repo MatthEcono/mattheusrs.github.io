@@ -40,92 +40,91 @@
 ;
 
 /* ============================================
-   CUSTOMIZAÇÕES PESSOAIS
+   CUSTOMIZAÇÕES PESSOAIS — TEMA CLARO COMPLETO
    =========================================== */
 
-/* 1. Tipografia global */
-body {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
-  font-size: 17px;
-}
-
-/* 2. Cores / links */
-a {
-  color: #1a73e8;
-}
-
-a:hover {
-  color: #165cb3;
-}
-
-/* ============================================
-   NAVBAR NOVA – FUNCIONA EM DARK/LIGHT MODE
-   =========================================== */
-
-/* Modo claro */
-:root {
-  --global-header-bg: #1E293B !important;   /* fundo elegante */
-  --global-header-text: #F1F5F9 !important; /* texto claro */
-}
-
-/* Modo escuro */
+/* Forçar o site inteiro a ser branco (ignorar dark mode) */
+:root,
+[data-theme="light"],
 [data-theme="dark"] {
-  --global-header-bg: #0f172a !important;
-  --global-header-text: #E2E8F0 !important;
+
+  /* Cores gerais */
+  --global-bg-color: #ffffff !important;
+  --global-text-color: #111111 !important;
+  --global-muted-color: #444444 !important;
+
+  /* Links */
+  --global-link-color: #1a73e8 !important;
+
+  /* Navbar */
+  --global-header-bg: #ffffff !important;
+  --global-header-text: #111111 !important;
 }
 
+/* Fundo geral */
+html, body, .page, .page__content, .wrapper {
+  background: #ffffff !important;
+  color: #111111 !important;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+/* Remover borda vermelha do teste */
+body { border: none !important; }
+
+/* Links */
+a {
+  color: #1a73e8 !important;
+}
+a:hover {
+  color: #0f5bd7 !important;
+}
+
+/* NAVBAR COMPLETAMENTE BRANCA */
 .masthead {
-  background-color: var(--global-header-bg) !important;
-  color: var(--global-header-text) !important;
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e5e7eb !important;
+  color: #111111 !important;
 }
-
 .masthead__menu-item a {
-  color: var(--global-header-text) !important;
+  color: #111111 !important;
   font-weight: 600;
   text-transform: none;
 }
-
 .masthead__menu-item a:hover {
-  color: #60A5FA !important; /* azul leve */
+  color: #1a73e8 !important;
 }
 
-
-
-
-/* 4. Sidebar */
+/* SIDEBAR BRANCA */
 .sidebar {
-  background-color: #f8fafc;
-  border-left: 1px solid #e2e8f0;
+  background-color: #ffffff !important;
+  border-right: 1px solid #e5e7eb !important;
+}
+.sidebar p, .sidebar li, .author__content {
+  color: #111111 !important;
 }
 
+/* Foto com borda elegante */
 .author__avatar img {
-  border-radius: 999px;
-  border: 2px solid #1a73e8;
+  border-radius: 50% !important;
+  border: 2px solid #1a73e8 !important;
 }
 
-.author__content h3 {
-  font-size: 1.1rem;
-  font-weight: 600;
+/* Títulos */
+h1, h2, h3, h4 {
+  color: #111111 !important;
 }
 
-/* 5. Homepage / cards de posts */
-.archive__item-title {
-  font-size: 1.1rem;
-  font-weight: 600;
+/* Publicações */
+.archive__item {
+  background: #ffffff !important;
+  border: none !important;
+  padding: 0.2rem 0;
 }
-
 .archive__item-excerpt {
-  color: #4a5568;
+  color: #444444 !important;
 }
 
-.page__title {
-  font-size: 2rem;
-  font-weight: 700;
+/* Separadores discretos */
+hr {
+  border-color: #dddddd !important;
 }
-
-.page__lead {
-  font-size: 1.1rem;
-  color: #4a5568;
-  max-width: 40rem;
-}
-body { border: 10px solid red !important; }
