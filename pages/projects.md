@@ -14,10 +14,10 @@ estimating impacts on absenteeism, job exit, and vulnerability.
 
 ---
 
-## 2. Multilateral Cost of Living Index (CNPq Universal Grant)  
-**2023–present**  
+## 2. Multilateral Cost of Living Index 
+**CNPQ (2023–present)**  
 Development of a multilateral price index to measure regional inequalities in  
-cost-of-living, poverty, and real income dynamics across Brazil.
+cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
 
 ---
 
@@ -43,7 +43,7 @@ targeting mechanisms, and economic vulnerability.
 **Conjuntura: uma leitura alternativa**  
 *2016–2017*  
 
-Responsibilities included manuscript editing, evaluation, and content curation.
+Responsibilities included manuscript editing, evaluation and content curation.
 
 ---
 
