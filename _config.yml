@@ -11,71 +11,25 @@ url: "https://matthecono.github.io"
 baseurl: ""
 repository: "Matthecono/matthecono.github.io"
 
-
 # ================================
 # AUTHOR PROFILE
 # ================================
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Mattheus Rodrigues da Silva"
-  pronouns         : 
   bio              : "PhD Student in Economics at UFPE. Visiting Researcher at the University of York. Research in Health Economics, Spatial Econometrics, Climate and Infectious Diseases."
   location         : "York, United Kingdom"
   employer         : "Federal University of Pernambuco (UFPE) & University of York"
-  uri              : 
   email            : "mattheusr36@gmail.com"
 
   # Academic websites
-  academia         :
-  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=n3D1gcMAAAAJ&hl=pt-BR"
-  inspire-hep      :
-  impactstory      :
   orcid            : "https://orcid.org/0000-0001-8382-8791"
-  lattes            : "https://lattes.cnpq.br/4766159462000923"
-  semantic         :
-  ssrn             :
-  pubmed           :
-  researchgate     :
-  scopus           :
-  zotero           :
+  lattes           : "http://lattes.cnpq.br/6020837927478389"
+  linkedin         : "mattheusr"
 
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
+  # Repositories
   github           : "Matthecono"
-  kaggle           :
-  stackoverflow    :
-
-  # Social media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
-  telegram         :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
-
 
 # ================================
 # PUBLICATION CATEGORIES
@@ -98,7 +52,7 @@ read_more: "disabled"
 talkmap_link: false
 
 # ================================
-# COMMENTS (DISABLED)
+# COMMENTS
 # ================================
 comments:
   provider:
@@ -110,7 +64,7 @@ atom_feed:
   hide: false
 
 # ================================
-# ANALYTICS (OFF)
+# ANALYTICS
 # ================================
 analytics:
   provider: false
@@ -215,7 +169,6 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-
 tag_archive:
   type: liquid
   path: /tags/
