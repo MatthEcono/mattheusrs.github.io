@@ -4,15 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
-## 📄 Download CV (PDF)
-You can download my full CV here:
-
-👉 **[Download CV – PDF](https://matthecono.github.io/assets/files/CV_Mattheus_Rodrigues.pdf)**
-
----
-
 ## 👤 About Me
 
 Economist with experience in **Health Economics**, **Spatial Econometrics**,  
@@ -84,7 +75,13 @@ Course: *Introduction to Econometrics*
 
 - **Lattes CV:** https://lattes.cnpq.br/4766159462000923  
 - **Email:** mattheusr36@gmail.com  
-- **ORCID:** https://orcid.org/0000-0001-8382-8791  
+- **ORCID:** https://orcid.org/0000-0001-8382-8791
+- 
+## 📄 Download CV (PDF)
+You can download my full CV here:
+
+👉 **[Download CV – PDF](https://matthecono.github.io/assets/files/CV_Mattheus_Rodrigues.pdf)**
+
 
 ---
 
