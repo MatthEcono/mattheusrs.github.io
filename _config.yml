@@ -16,36 +16,65 @@ repository: "Matthecono/mattheusrs.github.io"
 # AUTHOR PROFILE
 # ================================
 author:
-  avatar: "profile.png"
-  name: "Mattheus R. da Silva"
-  pronouns:
-  bio: "PhD student in Economics at UFPE. Research in Health Economics, Spatial Econometrics, Climate and Infectious Diseases."
-  location: "Brazil"
-  employer: "Universidade Federal de Pernambuco (UFPE)"
-  uri:
-  email: "mattheus.rodriguesdasilva@york.ac.uk"
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Mattheus Rodrigues da Silva"
+  pronouns         : 
+  bio              : "PhD Student in Economics at UFPE. Visiting Researcher at the University of York. Research in Health Economics, Spatial Econometrics, Climate and Infectious Diseases."
+  location         : "York, United Kingdom"
+  employer         : "Federal University of Pernambuco (UFPE) & University of York"
+  uri              : 
+  email            : "mattheusr36@gmail.com"
 
-  # Academic profiles
-  googlescholar: "https://scholar.google.com/citations?user=n3D1gcMAAAAJ&hl=pt-BR"
-  orcid: "https://orcid.org/0000-0001-8382-8791"
-  pubmed:
-  ssrn:
-  researchgate:
-  scopus:
-  zotero:
+  # Academic websites
+  academia         :
+  arxiv            :
+  googlescholar    : "https://scholar.google.com/citations?user=n3D1gcMAAAAJ&hl=pt-BR"
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0001-8382-8791"
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
-  # Code & Data
-  github: "Matthecono"
-  kaggle:
-  bitbucket:
-  stackoverflow:
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "Matthecono"
+  kaggle           :
+  stackoverflow    :
 
-  # Social
-  linkedin:
-  twitter:
-  bluesky:
-  instagram:
-  youtube:
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+
 
 # ================================
 # PUBLICATION CATEGORIES
