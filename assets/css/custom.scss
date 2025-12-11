@@ -1,0 +1,70 @@
+---
+# This ensures Jekyll processes this file
+---
+
+/* GLOBAL BACKGROUND */
+body,
+.page__content,
+.masthead,
+.page {
+  background-color: #ffffff !important; /* fundo branco */
+  color: #1a1a1a;  /* texto mais legível */
+}
+
+/* SIDEBAR (profile) */
+.sidebar {
+  background: #f8f9fa !important; /* cinza MUITO claro */
+  border-right: 1px solid #e1e1e1;
+}
+
+.author__avatar img {
+  border-radius: 10px !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* TITLES */
+.page__title,
+h1, h2, h3, h4 {
+  color: #222;
+  font-weight: 700;
+}
+
+/* LINKS */
+a {
+  color: #0066cc;
+}
+a:hover {
+  color: #003d80;
+  text-decoration: underline;
+}
+
+/* NAVBAR */
+.masthead {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.masthead__menu-item a {
+  color: #333 !important;
+  font-weight: 600;
+}
+.masthead__menu-item a:hover {
+  color: #0066cc !important;
+}
+
+/* CONTENT SPACING */
+.page__content {
+  padding: 2rem !important;
+}
+
+/* MAKE THE SITE LOOK "LIGHT" */
+.wrapper {
+  background: #ffffff !important;
+}
+
+/* FOOTER */
+.page__footer {
+  background: #ffffff !important;
+  color: #555;
+  border-top: 1px solid #e1e1e1;
+}
