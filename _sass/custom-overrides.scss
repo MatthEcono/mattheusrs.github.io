@@ -2,7 +2,10 @@
    1. Tipografia global
    =========================================== */
 
-body { background-color: red !important; }
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+}
 
 /* ============================================
    2. Cores / links
