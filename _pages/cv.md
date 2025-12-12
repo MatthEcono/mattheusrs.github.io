@@ -14,9 +14,9 @@ PhD Researcher at **UFPE (PIMES)** with a doctoral exchange at the **University 
 
 ## 🎓 Academic Background
 
-### **PhD in Economics – UFPE (2022– )**  
+### **PhD in Economics – UFPE (2022–ongoing)**  
 *Sandwich period at the University of York*  
-**Thesis:** *Ensaios em Economia da Saúde*  
+**Thesis:** *Essays in heath economics*  
 **Supervisors:** Tatiane Menezes; Helen Elsey (York)
 
 ### **MSc in Economics – UFRN (2018–2020)**  
@@ -29,18 +29,25 @@ Thesis: *Inserção Comercial Externa dos Produtos Primários Brasileiros no Sé
 
 ---
 
-## 🧑‍🏫 Professional & Research Experience
+## 🎓 Graduate Teaching (Master’s/PhD – PIMES/UFPE)
 
-### **Doctoral Researcher – UFPE (2022–present)**  
-CAPES Doctoral Scholarship (Full time)
+### **Teaching Assistant – Econometrics I (2024)**  
+Supervisor: Henrique V. P. Fonseca  
+Graduate-level quantitative methods course (Master’s/PhD program)
 
-### **Visiting PhD Researcher – University of York (UK)**  
-Health Sciences Department, supervised by Helen Elsey.
+### **Teaching Assistant – Econometrics I (2023)**  
+Supervisor: Henrique V. P. Fonseca  
+Graduate-level quantitative methods course (Master’s/PhD program)
 
-### **Teaching Internship – UFRN (2019)**  
-Course: *Introduction to Econometrics*
+---
 
-### **CAPES Master's Scholarship – UFRN (2018–2020)**
+## 🎓 Undergraduate Teaching (Bachelor's Level)
+
+### **Teaching Intern – Regional Economics I (UFPE, 2024)**  
+Supervisor: Tatiane A. de Menezes
+
+### **Teaching Intern – Introduction to Econometrics (UFRN, 2019)**  
+Supervisor: Janaina Alves
 
 ---
 
